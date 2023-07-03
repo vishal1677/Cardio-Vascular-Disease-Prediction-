@@ -1,0 +1,3 @@
+[submodule "cardiovascular-disease-prediction"]
+	path = cardiovascular-disease-prediction
+	url = https://github.com/Aditya-Dhodade/cardiovascular-disease-prediction.git
